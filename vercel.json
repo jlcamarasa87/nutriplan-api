@@ -1,0 +1,8 @@
+{
+    "functions": {
+          "api/surprise.js": {
+                  "memory": 128,
+                  "maxDuration": 15
+          }
+    }
+}
